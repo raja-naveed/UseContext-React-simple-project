@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Pizza Peproni",
+      "price": 10,
+      "image": "https://github.com/codersgyan/pizza-images/blob/main/1619798003389-788648576.png?raw=true"
+    },
+    {
+      "name": "Pizza Sauce",
+      "price": 20,
+      "image": "https://github.com/codersgyan/pizza-images/blob/main/1619798169571-671551234.png?raw=true"
+    },
+    {
+      "name": "Pizza Chocolate",
+      "price": 30,
+      "image": "https://github.com/codersgyan/pizza-images/blob/main/1619798368145-612682611.png?raw=true"
+    }
+  ]
+  
